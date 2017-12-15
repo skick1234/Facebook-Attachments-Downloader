@@ -1,14 +1,14 @@
 # Facebook Attachments Downloader.
 
-An AutoIt Program to get and download many kind of attachments such as images' posts, albums, videos, comment's video,.e.t.c. from Facebook base on its API.
+An AutoIt Program to get and download many kind of attachments such as posts' images , albums, videos, comment's video,.e.t.c. from Facebook base on its API.
 
-## Details
+## Features
 
 For more detail, Go to [my post](https://www.facebook.com/groups/j2team.community/permalink/599381103727347/) on J2TeaM Community.
 
 ## Versioning
 
-For the versions available, see the [tags on my repository](https://github.com/skick1234/FbAttachments/tags).
+For the versions available, see the [tags on my repository](https://github.com/skick1234/Facebook-Attachments-Downloader/tags).
 
 ## Authors
 
